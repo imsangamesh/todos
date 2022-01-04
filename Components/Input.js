@@ -19,7 +19,7 @@ export default function Input(props){
         <View style={styles.button}>
             <Button 
              title="add todo"
-             color = 'coral'
+             color = '#53a1e6'
              onPress={() => {
                 if (todo.length > 2){
                     submithandler(todo);
@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
         marginHorizontal:27,
     },
     input:{
-        borderColor:'coral',
+        borderColor:'#53a1e6',
         borderBottomWidth :3,
         marginVertical:10 , 
     }

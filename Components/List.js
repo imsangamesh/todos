@@ -32,12 +32,12 @@ const styles = StyleSheet.create({
     },  
     todos:{
         padding:10,
-        borderWidth:1,
+        borderWidth:1.5,
         marginVertical:5,
         borderRadius:8,
         borderStyle:"dashed",
-        borderColor:'#800080',
-        backgroundColor : '#f5deb3',
+        borderColor:'#ed589d',
+        backgroundColor : '#f7c1da',
         color:'black'
       }
 });

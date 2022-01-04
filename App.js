@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    backgroundColor:'pink'
+    backgroundColor:'#a3d4ff'
   },
   list:{
     paddingHorizontal:20,
